@@ -1,14 +1,10 @@
 ---
-title: Our Coffee
+title: Bean tea
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: It's delicious
+description: wowowowowowowow
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -82,21 +78,21 @@ pricing:
         - 3 lbs of coffee per month
         - Green or roasted beans"
         - One or two varieties of beans"
-      plan: Small
+      plan: Tiny
       price: '50'
     - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
+      plan: Itsy
       price: '80'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Bitsy
       price: '?'
 ---
 
